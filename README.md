@@ -1,5 +1,3 @@
-# ML-project
-
 # MLOps End-to-End Example with MLflow
 
 This repository demonstrates a complete MLOps lifecycle for a regression problem using MLflow, with a focus on reproducibility, experiment tracking, and model management.
